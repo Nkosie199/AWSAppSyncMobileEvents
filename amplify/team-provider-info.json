@@ -1,0 +1,15 @@
+{
+  "awsappsync": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsmobileappsynceven-awsappsync-191205-authRole",
+      "UnauthRoleArn": "arn:aws:iam::465277319203:role/amplify-awsmobileappsynceven-awsappsync-191205-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::465277319203:role/amplify-awsmobileappsynceven-awsappsync-191205-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-awsmobileappsynceven-awsappsync-191205-deployment",
+      "UnauthRoleName": "amplify-awsmobileappsynceven-awsappsync-191205-unauthRole",
+      "StackName": "amplify-awsmobileappsynceven-awsappsync-191205",
+      "StackId": "arn:aws:cloudformation:us-east-1:465277319203:stack/amplify-awsmobileappsynceven-awsappsync-191205/d9a00950-22ae-11eb-a7b3-0a392ab5a299",
+      "AmplifyAppId": "d2q2472yow5p18"
+    }
+  }
+}
